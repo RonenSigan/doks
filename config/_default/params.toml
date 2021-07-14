@@ -4,7 +4,7 @@
 title = "Ctrl Alt Elite"
 titleSeparator = "-"
 titleAddition = "Ctrl Alt Elite!"
-description = "Ctrl Alt Elite portal for testing results and statistics."
+description = "Ctrl Alt Elite portal for testing results and statistics. "
 ## Open Graph
 images = ["p.png"]
 ogLocale = "en_US"
