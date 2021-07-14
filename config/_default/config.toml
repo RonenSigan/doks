@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://wonderful-stonebraker-499cbb.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
